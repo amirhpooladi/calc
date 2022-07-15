@@ -27,18 +27,19 @@ input:hover{
 }
 body{
     background-color: darkslategrey;
-    background-image: url("ii.jfif");
+   /* background-image: url("ii.jfif");
     background-size: cover;
     background-repeat: no-repeat;
+    */
 }
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
     body {
       background-position: center;
       background-attachment: fixed;
       
     }
  }
-
+*/
  p{
     color: aliceblue;
  }
