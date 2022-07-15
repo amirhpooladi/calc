@@ -33,3 +33,9 @@ body{
 p{
     color:white;
 }
+@media (min-width: 768px) {
+   body {
+     background-position: center;
+     background-attachment: fixed;
+   }
+}
