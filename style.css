@@ -1,0 +1,31 @@
+.butttons{
+    text-align: center;
+    margin-top: 50px;
+}
+input{ 
+    
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-size: 2rem;
+    background-color: rgb(212, 207, 212);
+}
+input:hover{
+    background-color: rgb(138, 155, 249);
+}
+
+#c{
+    background-color: rgb(249, 55, 55);
+}
+#eq{
+    background-color: green;
+}
+#paste{
+  background-color: white;
+  text-align: center; 
+  width: fit-content;
+}
+body{
+    background-color: darkslategrey;
+}
+
