@@ -27,5 +27,7 @@ input:hover{
 }
 body{
     background-color: darkslategrey;
+    background-image: url("ii.jfif");
+    background-size: cover;
 }
 
